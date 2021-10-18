@@ -1,6 +1,7 @@
 # Lecture contents of Computational Basics UE (Group Plakolb)
 
 This repository contains most code written during the exercises.
+The lecture notes are jupyter notebooks contained in the ```jupyter``` directory. A notebook for lesson ```01``` does not exist as only formalities were discussed.
 
 ## Licensing
 
